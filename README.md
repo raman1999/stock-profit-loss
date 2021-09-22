@@ -1,4 +1,4 @@
-# Neog Camp Stock Profit or Loss Mark 14
+# Neog Camp Stock Profit or Loss 
 
 **Tech Used**
 
